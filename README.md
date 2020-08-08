@@ -20,9 +20,13 @@ I'm an entrepreneur with a balanced technical and non-technical skill set.  I kn
 	- Successfully [raised $3 million in seed funding](https://www.constructionequipmentguide.com/used-equipment-guide-raises-seed-round-led-by-holt-ventures/40657) as a prerevenue company in early 2018.  The company was acquired by [Randall-Reilly](https://www.randallreilly.com/) in 2020 and the website has been modified to only index US-based inventory.
 	- Performance engineering for [humans](https://gtmetrix.com/reports/usedequipmentguide.com/X29GnRZM) and [bots](https://gtmetrix.com/reports/usedequipmentguide.com/44CIacLy) with [structured data](https://search.google.com/test/rich-results?utm_campaign=sdtt&utm_medium=url&url=https://usedequipmentguide.com/Construction-Equipment-for-sale?_escaped_fragment_).
 
+***
+
 ![dieseljobs.com Logo](https://raw.githubusercontent.com/jeremybalog/jeremybalog/master/logos/dieseljobs.png)
 - [dieseljobs.com](https://dieseljobs.com)
 	- Founder & CEO/CTO of the largest niche job board for the heavy truck and equipment industry.  The company was acquired by [Randall-Reilly](https://www.randallreilly.com/) in 2020 and merged into their existing job board operations.
+
+***
 
 ![Mane Avenue Salon Logo](https://raw.githubusercontent.com/jeremybalog/jeremybalog/master/logos/maneavenue.png)
 - [Mane Avenue Salon](https://maneavenue.com)
@@ -36,7 +40,6 @@ I'm an entrepreneur with a balanced technical and non-technical skill set.  I kn
 -  :game_die: I used to live in Las Vegas and play poker semi-professionally.
 -  :car: I like cars--I have a [2003 Toyota MR2](https://raw.githubusercontent.com/jeremybalog/jeremybalog/master/personal/cars.jpg) and my daily driver is a [2019 Hyundai Veloster Turbo Ultimate](https://raw.githubusercontent.com/jeremybalog/jeremybalog/master/personal/cars.jpg).
 -  :airplane: I like to travel and have been to most of the states and many countries, but all of our 2020 trips have been cancelled due to coronavirus. :mask:
-
 
 ## :mailbox_closed: Contact Me
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jeremybalog/).
