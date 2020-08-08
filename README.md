@@ -14,7 +14,7 @@ I'm an entrepreneur with a balanced technical and non-technical skill set.  I kn
 - People & Task Management using **GitHub, Jira, Slack, Lattice**
 
 ## :computer: My Projects
-![Used Equipment Guide Logo](https://raw.githubusercontent.com/jeremybalog/jeremybalog/master/logos/ueg.png)
+![Used Equipment Guide Logo](https://raw.githubusercontent.com/jeremybalog/jeremybalog/master/logos/usedequipmentguide.png)
 - [Used Equipment Guide](https://usedequipmentguide.com)
 	- Founder & CEO/CTO of the world's largest search engine for used heavy trucks and equipment indexing ~3 million items for sale from ~4000 websites worldwide worth over $50 billion.
 	- Successfully [raised $3 million in seed funding](https://www.constructionequipmentguide.com/used-equipment-guide-raises-seed-round-led-by-holt-ventures/40657) as a prerevenue company in early 2018.  The company was acquired by [Randall-Reilly](https://www.randallreilly.com/) in 2020 and the website has been modified to only index US-based inventory.
