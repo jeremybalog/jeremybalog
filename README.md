@@ -39,5 +39,5 @@ I'm an entrepreneur with a balanced technical and non-technical skill set.  I kn
 
 
 ## :mailbox_closed: Contact Me
-- LinkedIn - [Jeremy Balog]([https://www.linkedin.com/in/jeremybalog/](https://www.linkedin.com/in/jeremybalog/))
+- LinkedIn - [Jeremy Balog](https://www.linkedin.com/in/jeremybalog/)
 - Email and Phone available on [my resume](https://raw.githubusercontent.com/jeremybalog/jeremybalog/master/Jeremy_Balog_Resume.pdf).
