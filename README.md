@@ -35,7 +35,7 @@ I'm an entrepreneur with a balanced technical and non-technical skill set.  I kn
 
 ## :sunglasses: Fun Facts About Me
 - :sunrise_over_mountains: I've [climbed Mount Kilimanjaro](https://raw.githubusercontent.com/jeremybalog/jeremybalog/master/personal/kilimanjaro.jpg).
--  :muscle: I've done several [GORUCK Challenges](https://www.goruck.com/goruck-challenge/).
+-  :muscle: I've done several [GORUCK Challenges](https://www.goruckevents.com/goruck-challenge).
 -  :trophy: I enjoy fencing--I'm a "three weapon [foilist](https://en.wikipedia.org/wiki/Foil_%28fencing%29)".
 -  :game_die: I used to live in Las Vegas and play poker semi-professionally.
 -  :car: I like cars--I have a [2003 Toyota MR2](https://raw.githubusercontent.com/jeremybalog/jeremybalog/master/personal/cars.jpg) and my daily driver is a [2019 Hyundai Veloster Turbo Ultimate](https://raw.githubusercontent.com/jeremybalog/jeremybalog/master/personal/cars.jpg).
