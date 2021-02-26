@@ -2,7 +2,7 @@
 *“Simplify, then add lightness.  Adding power makes you faster on the straights; subtracting weight makes you faster everywhere.” ~ Colin Chapman, Founder of Lotus Cars*
 
 ## :monocle_face: About Me
-I'm an entrepreneur with a balanced technical and non-technical skill set.  I know how to build a product for a business and a business for a product.  I'm passionate about making the world a better place and creating opportunities through efficiency, transparency, and liquidity.  I live in Chattanooga, Tennessee (the Scenic City) with my beautiful wife and three dogs.
+I'm an entrepreneur with a balanced technical and non-technical skill set.  I know how to build a product for a business and a business for a product.  I'm passionate about making the world a better place and creating opportunities through efficiency, transparency, and liquidity.  I live in Chattanooga, Tennessee (the Scenic City) with my beautiful wife, newborn son, and three dogs.
 
 ## :zap: Full Stack Technologies
 - Back-end development using **Node, Express, Laravel/Lumen, Jest, PHPUnit**
