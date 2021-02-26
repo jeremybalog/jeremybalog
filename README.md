@@ -5,8 +5,8 @@
 I'm an entrepreneur with a balanced technical and non-technical skill set.  I know how to build a product for a business and a business for a product.  I'm passionate about making the world a better place and creating opportunities through efficiency, transparency, and liquidity.  I live in Chattanooga, Tennessee (the Scenic City) with my beautiful wife and three dogs.
 
 ## :zap: Full Stack Technologies
-- Back-end development using **Node,  Express, Laravel/Lumen, Jest, PHPUnit**
-- Front-end development using **React, Redux, NextJs, CSS in JS, Jest**
+- Back-end development using **Node, Express, Laravel/Lumen, Jest, PHPUnit**
+- Front-end development using **React, Redux, NextJs, Vue3, CSS in JS, Jest**
 - Data storage using **SQL, Redis, S3, Cloudsearch/Solr**
 - DevOps using **Docker, CI/CD, CDN, Serverless features, Microservices**
 - Headless web crawling using **NightmareJs/Electron, Puppeteer/Chromium, Request/cURL**
