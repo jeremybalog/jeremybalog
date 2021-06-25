@@ -5,13 +5,13 @@
 I'm an entrepreneur with a balanced technical and non-technical skill set.  I know how to build a product for a business and a business for a product.  I'm passionate about making the world a better place and creating opportunities through efficiency, transparency, and liquidity.  I live in Chattanooga, Tennessee (the Scenic City) with my beautiful wife, newborn son, and three dogs.
 
 ## :zap: Full Stack Technologies
-- Back-end development using **Node, Express, Laravel/Lumen, Jest, PHPUnit**
-- Front-end development using **React, Redux, NextJs, Vue3, CSS in JS, Jest**
-- Data storage using **SQL, Redis, S3, Cloudsearch/Solr**
-- DevOps using **Docker, CI/CD, CDN, Serverless features, Microservices**
+- Back-end development using **Node, TypeScript, Express, Laravel/Lumen, Jest/Mocha/Chai, PHPUnit**
+- Front-end development using **React, Redux, NextJs, Vue, TypeScript, Webpack, Vite, SASS, CSS in JS, Jest/Mocha/Chai**
+- Data storage using **SQL, Mongo, Redis, S3, GCP, Cloudsearch/Solr**
+- DevOps using **Docker, Nginx, CI/CD, CDN, Serverless features, Microservices**
 - Headless web crawling using **NightmareJs/Electron, Puppeteer/Chromium, Request/cURL**
 - Technical SEO using **HTML5, Structured Data Schemas, Prerendering**
-- People & Task Management using **GitHub, Jira, Slack, Lattice**
+- People & Task Management using **Jira, Zenhub, Slack, Lattice**
 
 ## :computer: My Projects
 ![Used Equipment Guide Logo](https://raw.githubusercontent.com/jeremybalog/jeremybalog/master/logos/usedequipmentguide.png)
